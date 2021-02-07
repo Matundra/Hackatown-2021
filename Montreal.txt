@@ -1,0 +1,8 @@
+2021-02-14;514-667-3176;Ahuntsic;abricot,pomme,champignon
+2021-02-15;514-668-3185;Ahuntsic;abricot,pomme,champignon
+2021-02-17;514-669-3194;Outremont;abricot,concombre,pomme,brocoli,champignon
+2021-02-18;514-660-3123;Lasalle;laitue,brocoli
+2021-02-18;514-623-3112;Lasalle;laitue,brocoli,champignon,tomate,olive
+2021-03-18;514-624-3111;Villeray;farine
+2021-03-19;514-625-3120;PointeClaire;laitue,champignon,tomate
+2021-03-21;514-622-3139;Outremont;noix,olive

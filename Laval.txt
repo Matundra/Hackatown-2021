@@ -1,0 +1,8 @@
+2016-02-14;514-667-3166;FabreVille;abricot,pomme,champignon
+2016-02-15;514-668-3165;FabreVille;abricot,pomme,champignon
+2016-02-17;514-669-3164;Auteuil;abricot,concombre,pomme,brocoli,champignon
+2016-02-18;514-660-3163;Vimont;laitue,brocoli
+2016-02-18;514-623-3162;Vimont;laitue,brocoli,champignon,tomate,olive
+2016-03-18;514-624-3161;Vimont;farine
+2016-03-19;514-625-3160;Duvernay;laitue,champignon,tomate
+2016-03-21;514-622-3159;Chomedey;noix,olive
